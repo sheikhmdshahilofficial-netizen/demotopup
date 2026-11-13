@@ -1,12 +1,12 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (SR TOPUP)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "SR TOPUP";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "t.me//wabsitbysell";
 
 // =======================================================
 // TELEGRAM GROUP LINK
@@ -21,6 +21,6 @@ var youtube_channel_link = "YouTube channel link";
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
-var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
+var notification_text = `100সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
 ১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
 অর্ডার করুন নিশ্চিন্তে ♥️`;
